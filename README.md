@@ -5,9 +5,9 @@ of this dust bin it will open automatically with the help of a
 servo motor. so there is some sensor work to detect the
 object in front of the dustbin
 ## components
-1 Arduino Uno
-2 Ultrasonic Sensor HC-SR04
-3 Servo Motor SG90
+* Arduino Uno
+* Ultrasonic Sensor HC-SR04
+* Servo Motor SG90
 ### Installation and Usage
 * Connect the VCC pin of the ultrasonic sensor to the 5V pin on the Arduino
 * Connect the GND pin to the GND pin on the Arduino
@@ -17,7 +17,7 @@ object in front of the dustbin
 * Connect the VCC pin to the 5V pin on the Arduino
 * Connect the signal pin to pin 3 on the Arduino
 #### Ciruit Diagram:
-<img src=" C:\Users\sss\Downloads\WhatsApp Image 2023-08-03 at 15.03.13.jpg " width ="150" height="200">
+<img src=" C:\Users\sss\Downloads\WhatsApp Image 2023-08-03 at 15.03.13.jpg " width ="200" height="250">
 
 
 
